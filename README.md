@@ -23,5 +23,5 @@
 
 - O ponto de almoço foi separado do normal, pois aqui o horário de almoço não é obrigatório e funcionários do período da tarde por exemplo não fazem
 - Fique atento aos segundos do seu sistema pois pode gerar uma hora atrasada que fica inconsistente com a mensagem que for enviar*
-- O tipo do ponto no arquivo .json poderia ser boolean
+- O tipo do ponto no arquivo JSON poderia ser boolean, talvez seja em versões futuras
 - Texto do almoço poderia ser parametrizado, porém no momento as mensagens de entrada e saída são um pouco diferentes para o almoço então precisaria de mais modificações
