@@ -5,7 +5,7 @@
 - Altere em ```src/ponto.json``` "Jacques Trevisan" para o seu nome.
 - Não modifique a propriedade 'tipo', pois ela controla o se você está entrando ou saindo
 - Para gerar o ponto do dia execute ```ponto.lnk```
-- Para gerar o ponto de almoço execute ```ponto.lnk```
+- Para gerar o ponto de almoço execute ```ponto-almoco.lnk```
 - O ponto será copiado para sua área de transferência, com precisão de 1 minuto*
 - Basta colar onde deseja e enviar dentro do intervalo
 
